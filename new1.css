@@ -85,6 +85,16 @@ font-family: 'Source Sans Pro', sans-serif;
 color: #B22222;
 font-family: 'Source Sans Pro', sans-serif;
 } 
+#landing .title {
+ background: white;
+ padding: 60px;
+ margin: 0 auto;
+ text-align: center;
+}
+#landing .title h1 {
+ font-size: 35px;
+ letter-spacing: 8px;
+}
 #landing .block {
  background: white;
  padding: 6px;
@@ -189,6 +199,4 @@ font-family: 'Source Sans Pro', sans-serif;
   padding: 30px 15px;
   width: 290px;
  }
-}
-
-  
+} 
